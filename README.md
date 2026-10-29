@@ -1,3 +1,5 @@
+# Latin Scansion
+
 In the landscape of “software tooling for Latin pedagogy”, William Whittaker’s Words, or
 Whittaker’s Words, is the dominant player. Whittaker’s Words provides a comprehensive Latin
 dictionary that allows users to look up any form of a Latin word and returns a candidate list of
